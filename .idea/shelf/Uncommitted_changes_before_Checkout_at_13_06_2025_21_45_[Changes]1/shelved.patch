@@ -1,0 +1,16 @@
+Index: test.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>new words\r\ntest
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/test.txt b/test.txt
+--- a/test.txt	(revision 8817dc8070d556baa50dcccf5fe6273aec3caf64)
++++ b/test.txt	(date 1749840310804)
+@@ -1,2 +1,4 @@
+ new words
++test
++9999999
+ test
+\ No newline at end of file
