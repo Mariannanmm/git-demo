@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98a8c5d6-3b84-47fc-b8b3-a83bb3c0bf9b" name="Changes" comment="del test.txt xxx.txt" />
+    <list default="true" id="98a8c5d6-3b84-47fc-b8b3-a83bb3c0bf9b" name="Changes" comment="внесла дані test.txt qwe.txt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,14 +15,14 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="newbranch" />
+        <entry key="$PROJECT_DIR$" value="5b97b48043fb6940b1fc988f7bb42339726742e8" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2ySgdbhECwKRTdectr58r3TBi4H" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -34,9 +36,14 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "clear",
+    "disable.download.node.interpreter.editor.notification": "true",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "settings.nodejs",
     "vue.rearranger.settings.migration": "true"
@@ -56,17 +63,65 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749833477230</updated>
-      <workItem from="1749833478176" duration="24000" />
+      <workItem from="1749833478176" duration="1943000" />
     </task>
-    <task id="LOCAL-00001" summary="del test.txt xxx.txt">
+    <task id="LOCAL-00001" summary="початковий коміт">
       <option name="closed" value="true" />
-      <created>1749981201691</created>
+      <created>1749833541727</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1749981201691</updated>
+      <updated>1749833541727</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="створила test.txt">
+      <option name="closed" value="true" />
+      <created>1749833627509</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749833627509</updated>
+    </task>
+    <task id="LOCAL-00003" summary="внесла дані в test.txt">
+      <option name="closed" value="true" />
+      <created>1749833661218</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749833661218</updated>
+    </task>
+    <task id="LOCAL-00004" summary="створила asd.txt">
+      <option name="closed" value="true" />
+      <created>1749833701191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749833701191</updated>
+    </task>
+    <task id="LOCAL-00005" summary="створила qwe.txt">
+      <option name="closed" value="true" />
+      <created>1749833832576</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749833832576</updated>
+    </task>
+    <task id="LOCAL-00006" summary="внесла дані asd.txt qwe.txt">
+      <option name="closed" value="true" />
+      <created>1749833908745</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749833908745</updated>
+    </task>
+    <task id="LOCAL-00007" summary="внесла дані test.txt qwe.txt">
+      <option name="closed" value="true" />
+      <created>1749833959816</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749833959816</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,7 +139,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="del test.txt xxx.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="del test.txt xxx.txt" />
+    <MESSAGE value="початковий коміт" />
+    <MESSAGE value="створила test.txt" />
+    <MESSAGE value="внесла дані в test.txt" />
+    <MESSAGE value="створила asd.txt" />
+    <MESSAGE value="створила qwe.txt" />
+    <MESSAGE value="внесла дані asd.txt qwe.txt" />
+    <MESSAGE value="внесла дані test.txt qwe.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="внесла дані test.txt qwe.txt" />
   </component>
 </project>
