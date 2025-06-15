@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98a8c5d6-3b84-47fc-b8b3-a83bb3c0bf9b" name="Changes" comment="add conflict.txt del try.txt" />
+    <list default="true" id="98a8c5d6-3b84-47fc-b8b3-a83bb3c0bf9b" name="Changes" comment="conflict begin" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750004265269</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="conflict begin">
+      <option name="closed" value="true" />
+      <created>1750004664208</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1750004664208</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +179,7 @@
     <MESSAGE value="add try.txt" />
     <MESSAGE value="conf try.txt" />
     <MESSAGE value="add conflict.txt del try.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add conflict.txt del try.txt" />
+    <MESSAGE value="conflict begin" />
+    <option name="LAST_COMMIT_MESSAGE" value="conflict begin" />
   </component>
 </project>
