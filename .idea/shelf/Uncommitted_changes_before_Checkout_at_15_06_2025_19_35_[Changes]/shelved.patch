@@ -1,0 +1,104 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"98a8c5d6-3b84-47fc-b8b3-a83bb3c0bf9b\" name=\"Changes\" comment=\"conflict begin\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 3\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2ySgdbhECwKRTdectr58r3TBi4H\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"disable.download.node.interpreter.editor.notification\": \"true\",\r\n    \"git-widget-placeholder\": \"clear\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"junie.onboarding.icon.badge.shown\": \"true\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"settings.nodejs\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-WS-251.26094.131\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"98a8c5d6-3b84-47fc-b8b3-a83bb3c0bf9b\" name=\"Changes\" comment=\"\" />\r\n      <created>1749833477230</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1749833477230</updated>\r\n      <workItem from=\"1749833478176\" duration=\"1943000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"початковий коміт\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1749833541727</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1749833541727</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"створила test.txt\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1749833627509</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1749833627509</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"внесла дані в test.txt\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1749833661218</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1749833661218</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"створила asd.txt\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1749833701191</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1749833701191</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"створила qwe.txt\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1749833832576</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1749833832576</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"внесла дані asd.txt qwe.txt\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1749833908745</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1749833908745</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"внесла дані test.txt qwe.txt\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1749833959816</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1749833959816</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"add try.txt\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750004039069</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750004039069</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"conf try.txt\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750004110054</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750004110054</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"add conflict.txt del try.txt\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750004265269</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750004265269</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"conflict begin\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1750004664208</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1750004664208</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"12\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"початковий коміт\" />\r\n    <MESSAGE value=\"створила test.txt\" />\r\n    <MESSAGE value=\"внесла дані в test.txt\" />\r\n    <MESSAGE value=\"створила asd.txt\" />\r\n    <MESSAGE value=\"створила qwe.txt\" />\r\n    <MESSAGE value=\"внесла дані asd.txt qwe.txt\" />\r\n    <MESSAGE value=\"внесла дані test.txt qwe.txt\" />\r\n    <MESSAGE value=\"add try.txt\" />\r\n    <MESSAGE value=\"conf try.txt\" />\r\n    <MESSAGE value=\"add conflict.txt del try.txt\" />\r\n    <MESSAGE value=\"conflict begin\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"conflict begin\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 78286acd356263a65999e0f82ca9a59ef7d7e4c6)
++++ b/.idea/workspace.xml	(date 1750004995883)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="98a8c5d6-3b84-47fc-b8b3-a83bb3c0bf9b" name="Changes" comment="conflict begin" />
++    <list default="true" id="98a8c5d6-3b84-47fc-b8b3-a83bb3c0bf9b" name="Changes" comment="conflict begin1" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -17,6 +17,7 @@
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 3
+@@ -29,24 +30,24 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "disable.download.node.interpreter.editor.notification": "true",
+-    "git-widget-placeholder": "clear",
+-    "ignore.virus.scanning.warn.message": "true",
+-    "junie.onboarding.icon.badge.shown": "true",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "settings.editor.selected.configurable": "settings.nodejs",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;disable.download.node.interpreter.editor.notification&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;clear&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+@@ -151,7 +152,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1750004664208</updated>
+     </task>
+-    <option name="localTasksCounter" value="12" />
++    <task id="LOCAL-00012" summary="conflict begin">
++      <option name="closed" value="true" />
++      <created>1750004697120</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1750004697120</updated>
++    </task>
++    <task id="LOCAL-00013" summary="conflict begin1">
++      <option name="closed" value="true" />
++      <created>1750004993434</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1750004993434</updated>
++    </task>
++    <option name="localTasksCounter" value="14" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -180,6 +197,7 @@
+     <MESSAGE value="conf try.txt" />
+     <MESSAGE value="add conflict.txt del try.txt" />
+     <MESSAGE value="conflict begin" />
+-    <option name="LAST_COMMIT_MESSAGE" value="conflict begin" />
++    <MESSAGE value="conflict begin1" />
++    <option name="LAST_COMMIT_MESSAGE" value="conflict begin1" />
+   </component>
+ </project>
+\ No newline at end of file
